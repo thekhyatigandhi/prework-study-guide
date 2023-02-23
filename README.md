@@ -12,7 +12,7 @@ This is the study guide for the students of the bootcamp to help them with their
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+N/A
 
 ## Usage
 
